@@ -100,11 +100,5 @@
     "openDateTime": "2025-05-27T16:40:56",
     "closeDateTime": "2025-05-27T19:31:48",
     "pnl": 46.44
-  },
-  {
-    "asset": "LTCUSDT",
-    "openDateTime": "2025-05-27T14:24:03",
-    "closeDateTime": "2025-05-27T14:24:03",
-    "pnl": 4.48
   }
 ]
