@@ -112,5 +112,11 @@
     "openDateTime": "2025-05-28T13:35:52",
     "closeDateTime": "2025-05-28T13:55:35",
     "pnl": 96.43
+  },
+  {
+    "asset": "KERNELUSDT",
+    "openDateTime": "2025-05-28T14:03:36",
+    "closeDateTime": "2025-05-28T17:23:31",
+    "pnl": 55.85
   }
 ]
