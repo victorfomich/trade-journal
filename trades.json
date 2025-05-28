@@ -118,5 +118,11 @@
     "openDateTime": "2025-05-28T14:03:36",
     "closeDateTime": "2025-05-28T17:23:31",
     "pnl": 55.85
+  },
+  {
+    "asset": "AVAXUSDT",
+    "openDateTime": "2025-05-28T18:00:56",
+    "closeDateTime": "2025-05-28T18:02:21",
+    "pnl": 36.63
   }
 ]
