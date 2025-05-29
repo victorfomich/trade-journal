@@ -124,5 +124,11 @@
     "openDateTime": "2025-05-28T18:00:56",
     "closeDateTime": "2025-05-28T18:02:21",
     "pnl": 36.63
+  },
+  {
+    "asset": "XRPUSDT",
+    "openDateTime": "2025-05-29T16:32:32",
+    "closeDateTime": "2025-05-29T19:08:50",
+    "pnl": 37.82
   }
 ]
