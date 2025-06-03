@@ -130,5 +130,11 @@
     "openDateTime": "2025-05-29T16:32:32",
     "closeDateTime": "2025-05-29T19:08:50",
     "pnl": 37.82
+  },
+  {
+    "asset": "SOLUSDT",
+    "openDateTime": "2025-06-03T07:30:23",
+    "closeDateTime": "2025-06-03T07:30:23",
+    "pnl": -339.52
   }
 ]
