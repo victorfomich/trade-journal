@@ -146,24 +146,6 @@
   {
     "asset": "AAVEUSDT",
     "openDateTime": "2025-06-03T16:34:31",
-    "closeDateTime": "2025-06-03T17:17:18",
-    "pnl": 15.65
-  },
-  {
-    "asset": "AAVEUSDT",
-    "openDateTime": "2025-06-03T16:34:31",
-    "closeDateTime": "2025-06-03T17:18:19",
-    "pnl": 28.98
-  },
-  {
-    "asset": "AAVEUSDT",
-    "openDateTime": "2025-06-03T16:34:31",
-    "closeDateTime": "2025-06-03T17:47:11",
-    "pnl": 5.81
-  },
-  {
-    "asset": "AAVEUSDT",
-    "openDateTime": "2025-06-03T16:34:31",
     "closeDateTime": "2025-06-03T17:21:24",
     "pnl": 36.9
   },
