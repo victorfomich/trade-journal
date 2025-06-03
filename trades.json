@@ -138,6 +138,12 @@
     "pnl": -339.52
   },
   {
+    "asset": "LDOUSDT",
+    "openDateTime": "2025-06-03T13:03:14",
+    "closeDateTime": "2025-06-03T18:01:32",
+    "pnl": -1.25
+  },
+  {
     "asset": "AAVEUSDT",
     "openDateTime": "2025-06-03T16:34:31",
     "closeDateTime": "2025-06-03T17:17:18",
