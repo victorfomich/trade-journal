@@ -157,6 +157,12 @@
   },
   {
     "asset": "1000PEPEUSDT",
+    "openDateTime": "2025-06-04T16:20:42",
+    "closeDateTime": "2025-06-04T16:47:30",
+    "pnl": 3.73
+  },
+  {
+    "asset": "1000PEPEUSDT",
     "openDateTime": "2025-06-04T16:21:38",
     "closeDateTime": "2025-06-04T16:35:20",
     "pnl": 19.47
