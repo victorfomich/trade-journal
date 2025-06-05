@@ -166,5 +166,11 @@
     "openDateTime": "2025-06-04T16:21:38",
     "closeDateTime": "2025-06-04T16:35:20",
     "pnl": 19.47
+  },
+  {
+    "asset": "UNIUSDT",
+    "openDateTime": "2025-06-05T16:42:33",
+    "closeDateTime": "2025-06-05T17:56:20",
+    "pnl": -245.21
   }
 ]
