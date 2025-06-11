@@ -172,5 +172,11 @@
     "openDateTime": "2025-06-09T17:09:25",
     "closeDateTime": "2025-06-09T18:56:28",
     "pnl": 39.43
+  },
+  {
+    "asset": "SUIUSDT",
+    "openDateTime": "2025-06-11T17:28:14",
+    "closeDateTime": "2025-06-11T17:30:09",
+    "pnl": 67.27
   }
 ]
