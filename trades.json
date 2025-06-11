@@ -172,5 +172,17 @@
     "openDateTime": "2025-06-05T16:42:33",
     "closeDateTime": "2025-06-05T17:56:20",
     "pnl": -245.21
+  },
+  {
+    "asset": "INJUSDT",
+    "openDateTime": "2025-06-09T17:09:25",
+    "closeDateTime": "2025-06-09T18:39:13",
+    "pnl": 40.16
+  },
+  {
+    "asset": "INJUSDT",
+    "openDateTime": "2025-06-09T17:09:25",
+    "closeDateTime": "2025-06-09T18:56:28",
+    "pnl": 39.43
   }
 ]
