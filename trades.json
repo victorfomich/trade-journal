@@ -190,5 +190,11 @@
     "openDateTime": "2025-06-13T13:16:52",
     "closeDateTime": "2025-06-13T13:17:01",
     "pnl": 77.43
+  },
+  {
+    "asset": "ADAUSDT",
+    "openDateTime": "2025-06-17T01:15:11",
+    "closeDateTime": "2025-06-17T03:39:54",
+    "pnl": 7.03
   }
 ]
