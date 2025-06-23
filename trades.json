@@ -214,5 +214,11 @@
     "openDateTime": "2025-06-23T13:38:29",
     "closeDateTime": "2025-06-23T13:38:29",
     "pnl": 123.35
+  },
+  {
+    "asset": "BTCUSDT",
+    "openDateTime": "2025-06-23T13:40:39",
+    "closeDateTime": "2025-06-23T13:40:39",
+    "pnl": 123.35
   }
 ]
